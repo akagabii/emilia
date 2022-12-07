@@ -1,0 +1,11 @@
+.index{
+    background-image: url('/images/emilia-home.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right -100px;
+}
+
+.index__main--titulo{
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 10px;
+}
